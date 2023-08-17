@@ -1,0 +1,29 @@
+.total-section{
+    width: 913px;
+    background: #121212;
+}
+
+.total-container{
+    gap: 88px;
+    padding: 26px 0;
+}
+
+.total{
+    gap: 28px;
+}
+
+.sign{
+    font-size: 64px;
+    line-height: normal;
+    color: rgb(255, 255, 255);
+}
+
+.toatal-expense,.total-income{
+    font-size: 64px;
+}
+
+.line{
+    width: 1px;
+    height: 109px;
+    background: #FFF;
+}

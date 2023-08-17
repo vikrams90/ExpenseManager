@@ -1,0 +1,48 @@
+.transaction-section{
+    width: 443px;
+    padding: 28px 20px;
+    background: #121212;
+}
+
+.transaction-list-group{
+    gap: 50px;
+    list-style: none;
+}
+
+.transaction-list{
+    gap: 20px;
+    position: relative;
+}
+.serail{
+    font-size: 96px;
+    line-height: normal;
+    color: #FFF;
+}
+.transaction{
+    gap: 5px;
+}
+
+.transaction-detail{
+    font-size: 28px;
+    color: #FFF;
+   
+    
+}
+.close{
+    height: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.edit{
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.transaction-amount{
+    font-size: 42px;
+}
+
+

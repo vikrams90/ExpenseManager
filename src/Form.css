@@ -1,0 +1,45 @@
+.input-section{
+    width: 913px;
+    height: 268px; 
+    background: #121212;
+}
+
+.form-field{
+    gap: 28px;
+    padding: 28px 0;
+  }
+
+  .input{
+    height: 55px;
+    padding-left: 60px;
+    padding-right: 30px;
+    font-size: 24px;
+    background: #424242;
+    color: #FFF;
+  }
+
+  .transaction-input{
+    border-radius: 72px 0px 0px 0px;
+  }
+
+  .amount-input{
+    border-radius: 0px 0px 72px 0px;
+  }
+
+  .options{
+    gap: 20px;
+  }
+
+  .submit{
+    width: 200px;
+    height: 55px;
+    font-size: 24px;
+  }
+
+  .btn1{
+    border-radius: 0px 72px 0px 80px;
+  }
+
+  .btn2{
+    border-radius: 72px 0px;
+  }

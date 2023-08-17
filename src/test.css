@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.outer{
+    background: none;
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    border-radius: 50%;
+    margin: 20px 50px;
+    position: relative;
+}
+
+.inner{
+    
+  
+        width: 0;
+        height: 0;
+        border-radius: 50%;
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent;
+        border-top: 90px solid red;
+        transform: rotate(45deg);
+        position: absolute;
+        z-index: 5;
+        right: 0;
+        top: 5px;
+
+
+}
